@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Voltify</string>
+    <string-array name="generi_film">
+        <item>Horror</item>
+        <item>Azione</item>
+        <item>Romantico</item>
+        <item>Drammatico</item>
+        <item>Thriller</item>
+        <item>Fantasy</item>
+    </string-array>
+
+</resources>
